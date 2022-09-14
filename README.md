@@ -6,7 +6,7 @@
 
 <div align="center"> 🏹 🏹 🏹 </div>
 
-<h3>Below are the technologies and libraries I have experience with</h3>
+<h3>Below are the technologies and libraries I have experience with. ⬇️</h3>
 
 <h3>Frontend:</h3>
 
