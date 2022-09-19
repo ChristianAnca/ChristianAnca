@@ -19,4 +19,4 @@
 <div align="center"> 🏹 🏹 🏹 </div>
 
 <h3>Fun facts:</h3>
-<p>I speak English and Spanish fluently. I am a competing traditional archer, and rarely miss my mark! I am an avid fisherman who could spend all my time on the water.</p>
+<p>I speak English and Spanish fluently. I am a competing traditional archer, and an avid fisherman who could spend all my time on the water.</p>
