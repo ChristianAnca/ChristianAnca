@@ -2,7 +2,7 @@
 <h1>🏹 Hello World, my name is Christian 🏹</h1>
 
 
-<h3>I am a Full Stack Web Developer. I thoroughly enjoy problem solving! I have built a 6-figure E-commerce business which peaked my interest in code itself which lead me to enroll in code bootcamp and my mind has been blown ever since. The world of programming truly fascinates me. My actual background is in agriculture. I was an organic gardening and farming teacher for a few years before getting involved with web development. I hope to put all of my expertise to use to help feed the world!</h3>
+<h3>I am a Full Stack Web Developer. I thoroughly enjoy problem solving! I have built a 6-figure E-commerce business which peaked my interest in code itself which lead me to enroll in code bootcamp and my mind has been blown ever since. The world of programming truly fascinates me. </h3>
 
 <div align="center"> 🏹 🏹 🏹 </div>
 
