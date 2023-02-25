@@ -5,7 +5,7 @@
 
 - 📄 *Learn more about my experiences: connect with me!
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
