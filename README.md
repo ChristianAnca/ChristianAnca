@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **hansanca@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/11CQRrDwJ7XdZ-rdxixYGaKnUW5wDRuLaDIbFyL2d_f4/edit?usp=sharing](https://docs.google.com/document/d/11CQRrDwJ7XdZ-rdxixYGaKnUW5wDRuLaDIbFyL2d_f4/edit?usp=sharing)
+- 📄 *Learn more about my experiences: connect with me!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
