@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">A passionate fullstack developer from Miami, FL. I am a Full Stack Web Developer. I thoroughly enjoy problem solving! I have built a 6-figure E-commerce business which peaked my interest in code itself which lead me to enroll in code bootcamp and my mind has been blown ever since. The world of programming truly fascinates me.</h3>
+<h3 align="center">A passionate fullstack developer from Miami, FL. I am a Full Stack Web Developer. I thoroughly enjoy problem solving! I have built a 7-figure E-commerce business which peaked my interest in code itself which lead me to enroll in code bootcamp and my mind has been blown ever since. The world of programming truly fascinates me.</h3>
 
 - 📫 How to reach me **hansanca@gmail.com**
 
